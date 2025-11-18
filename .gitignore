@@ -8,3 +8,5 @@ __pycache__
 /model_configs/venvs
 
 /examples/*_test.py
+.vscode
+.venv
